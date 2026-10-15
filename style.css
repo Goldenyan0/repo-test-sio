@@ -39,5 +39,6 @@ button {
 main div {
     display: inline-block;
     width: 45%;
+    min-height: 150px;
     vertical-align: top;
 }
